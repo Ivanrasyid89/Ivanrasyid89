@@ -4,7 +4,7 @@
 
 # 🔧 Skills and Tools
 - 🐍 Programming Languages: Python, R, SQL
-- 📊 Data Analysis & Visualization: Power BI, SPSS, Microsoft Excel, Minitab
+- 📊 Data Analysis & Visualization: Power BI, Looker Studio, SPSS, Microsoft Excel, Minitab
 - 🤖 Machine Learning & Modeling: Scikit-Learn, TensorFlow, Keras, NLTK
 - 🗄 Database Management: MySQL
 - 📅 Project Management: Trello
