@@ -4,10 +4,9 @@
 
 # 🔧 Skills and Tools
 - 🐍 Programming Languages: Python, R, SQL
-- 📊 Data Analysis & Visualization: Power BI, Looker Studio, SPSS, Microsoft Excel, Minitab
+- 📊 Data Analysis & Visualization: Power BI, Looker Studio, SPSS, Microsoft Excel
 - 🤖 Machine Learning & Modeling: Scikit-Learn, TensorFlow, Keras, NLTK
 - 🗄 Database Management: MySQL
-- 📅 Project Management: Trello
 
 # 🌟 My Key Projects
 - 🎬 [Netflix Reviews Sentiment Analysis](https://github.com/Ivanrasyid89/Portofolio.github.io/tree/main/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Netflix%20Ratings) : An NLP project analyzing Netflix user reviews using sentiment classification techniques.
